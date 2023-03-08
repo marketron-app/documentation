@@ -5,7 +5,8 @@ module.exports = {
         {
             title: "Getting started",
             children: [
-                'getting-started/docker',
+              'getting-started/docker',
+              'getting-started/env',
             ]
         }
       ],
