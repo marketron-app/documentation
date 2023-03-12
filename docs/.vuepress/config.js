@@ -1,5 +1,5 @@
 module.exports = {
-  base: "/documentation",
+  base: "/documentation/",
     themeConfig: {
       sidebar: [
         '/',
